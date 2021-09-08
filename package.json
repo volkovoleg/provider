@@ -1,0 +1,40 @@
+{
+  "name": "@lux/nuxt",
+  "version": "1.5.1",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@ag-grid-enterprise/all-modules": "^26.0.0",
+    "@ag-grid-community/client-side-row-model": "~26.0.0",
+    "@ag-grid-community/csv-export": "~26.0.0",
+    "@ag-grid-enterprise/excel-export": "^26.0.0",
+    "@ag-grid-enterprise/master-detail": "^26.0.0",
+    "@nuxtjs/google-gtag": "^1.0.4",
+    "ag-grid-community": "^26.0.0",
+    "ag-grid-vue": "^26.0.0",
+    "ag-grid-enterprise": "^25.1.0",
+    "@nuxtjs/axios": "^5.12.0",
+    "animate.css": "^4.1.0",
+    "apexcharts": "^3.19.2",
+    "flag-icon-css": "^3.4.6",
+    "lodash": "^4.17.15",
+    "moment": "^2.26.0",
+    "moment-timezone": "^0.5.31",
+    "nuxt": "^2.14.6",
+    "nuxt-i18n": "^6.10.1",
+    "vue-property-decorator": "^8.0.0",
+    "vue-shortkey": "^3.1.7"
+  },
+  "devDependencies": {
+    "@indielayer/eslint-config-vue": "^1.0.0",
+    "@nuxtjs/vuetify": "^1.11.3",
+    "eslint": "^6.8.0",
+    "sass": "^1.30.0",
+    "sass-loader": "^10.1.1"
+  }
+}
